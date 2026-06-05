@@ -5,7 +5,7 @@ title: IT Customer Support
 
 # Summary / Objective
 
-Detail-oriented IT professional with over 8 years of experience in customer support and application management within the healthcare and government sectors. Adept at analyzing, troubleshooting, and resolving technical issues while developing and implementing standard operating procedures. Proven ability to collaborate across departments and communicate effectively with end-users to enhance system functionality and operational efficiency. Seeking to leverage my expertise in information technology and administrative management to contribute to a dynamic organization focused on innovation and service excellence.
+IT Customer Support Lead experienced in enterprise public sector environments, leading technical support operations across multiple locations. I serve as a key escalation point, support and mentor team members, and partner with cross-functional teams to resolve complex issues. I focus on improving processes, strengthening service delivery, and turning technical challenges into practical solutions that support the business.
 
 * * *
 
@@ -14,9 +14,16 @@ Detail-oriented IT professional with over 8 years of experience in customer supp
 ## Washington State Department of Agriculture
 #### August 2021 – Current
 
-### Customer Support Journey Tier 2
+### IT Customer Support Journey Lead
 
-As a Tier 2 Service Desk Technician at the Washington State Department of Agriculture (WSDA), I am committed to supporting the agency's mission of promoting agricultural vitality while safeguarding public health and the environment. My role is essential in providing front-line technical support to agency staff across the department, ensuring they have access to critical business applications and telecommunications.
+- Co-lead Tier 2 customer support operations across Yakima and Olympia locations, supporting hundreds of end users across the agency 
+- Provide technical leadership and daily guidance to Tier 1 and Tier 2 staff, supporting a team of 5 technicians 
+- Serve as a primary escalation point, resolving high-impact and complex technical issues affecting multiple users and departments 
+- Collaborate with Systems, Security, and Network teams to resolve enterprise-level incidents and reduce downtime 
+- Act as a liaison between IT and business units to ensure technical solutions align with operational needs across divisions 
+- Contribute to process improvements and documentation, helping improve team efficiency and consistency in ticket handling 
+- Assist with technology rollouts and system upgrades, supporting successful deployments with minimal disruption 
+- Mentor and support Tier 1 staff, improving knowledge sharing and escalation readiness
 
 ### Customer Support Entry Tier 1
 
@@ -26,18 +33,26 @@ Analyze, troubleshoot, resolve, and develop standard operating procedures pertai
 #### July 2017 – August 2021
 ### Application Specialist
 
-Work collaboratively between applications and IT to assist users of the healthcare systems, as well as all other organization wide applications. Assist other departments and teams in resolving technical issues. Plan, design, develop, implement, train, communicate, and maintain existing or new functionalities related to operations.
+- Supported enterprise healthcare applications across multiple departments and locations 
+- Led implementation and training for new systems, improving user adoption and workflow efficiency 
+- Resolved complex application issues impacting clinical and operational workflows
+- Supported and troubleshot enterprise healthcare applications across multiple locations.
+
 
 ### Help Desk Specialist
 
-Provided technical assistance and support related to computer systems, hardware, networking, and software across 7 sites. Responded to queries, performed diagnostics, identified problems, and determined and implemented solutions.
+- Provided technical support across 7 sites, resolving hardware, software, and network issues 
+- Supported a high volume of tickets while maintaining strong customer service and resolution times
+
 
 ## Catholic Family and Child Service
 #### May 2015 – July 2017
 ### Records and Registration Specialist
 
-Records and Registration Specialist
-Screened, assigned, scheduled and registered new patients. Maintained patient information in the Management Information System.
+- Managed electronic records with a strong focus on accuracy, compliance, and data integrity.
+- Maintained and updated EHR systems while adhering to privacy and security requirements (HIPAA).
+- Identified discrepancies in records and implemented corrective actions.
+
 
 ## ACTNOW Inc.
 #### September 2013 – April 2015
@@ -73,13 +88,13 @@ A.A. Business Administration
 
 # Key Skills
 
-* Windows Server 2012 R2 and newer
-* Active Directory Domain Services
-* Office 365 Administration
-* Azure Services
-* Computer/Network Troubleshooting
-* Microsoft Office Suite
-* Critical Thinking
+- Technical Leadership & Team Mentorship 
+- IT Customer Support Operations 
+- Incident, Problem & Escalation Management 
+- Endpoint Support (Windows, AD, M365, Azure) 
+- Cross-Functional Collaboration 
+- Process Improvement & Documentation 
+- Technology Rollouts & Upgrades
 
 * * * 
 
